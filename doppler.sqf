@@ -351,6 +351,8 @@ TARGIT,437285,0,FM,FM,NOR,0,0, 9k6 FSK
 IRIS-A,436915,0,FM,FM,NOR,0,0, 9k6 FSK
 LEDSAT,435190,0,FM,FM,NOR,0,0, 9k6 GMSK
 Unisat-7,437425,0,FM,FM,NOR,0,0, 9k6 FSK
+CAPE-3,437325,0,FM,FM,NOR,0,0, 9k6 FSK
+SOMP-2B,435600,0,FM,FM,NOR,0,0, 9k6 FSK
 ;
 ; Hints
 ; This file contains all data required for the CAT tuning to operate. CAT tuning 
