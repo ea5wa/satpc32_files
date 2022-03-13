@@ -359,6 +359,7 @@ DELFI-PQ,436650,0,FM,FM,NOR,0,0, 1k2 FSK
 PAINANI-1,437475,0,FM,FM,NOR,0,0, 9k6 GMSK
 BUGSAT-1,437445,0,FM,FM,NOR,0,0, 9k6 FSK
 VZLUSAT-2,437325,0,FM,FM,NOR,0,0, 4K8 MSK
+OPS-SAT,437200,0,FM,FM,NOR,0,0,9600bps GMSK
 ;
 ; Hints
 ; This file contains all data required for the CAT tuning to operate. CAT tuning 
