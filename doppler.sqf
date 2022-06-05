@@ -365,5 +365,7 @@ XW-3(CAS-9),435725,0,FM,FM,NOR,0,0,4800bps GMSK
 ZACube-1,437355,145860,FM,FM,NOR,0,0,1k2AFSK 9k6GMSK* CW
 ZACube-2,437345,0,FM,FM,NOR,0,0,9600bps FSK
 Zhou Enlai,436950,145930,FM,FM,NOR,0,0,FM
+CSS,145875,436510,FM,FM,NOR,0,0,Cross Band Repeater V/U
+CSS,435075,145985,FM,FM,NOR,0,0,Cross Band Repeater U/V
 ;For the latest information on the Doppler.Sqf file check the SatPC32 manual
 ;For the latest version of SatPC32 http://www.dk1tb.de/indexeng.htm
