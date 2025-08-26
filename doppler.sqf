@@ -401,6 +401,7 @@ TEVEL-5,436400,145970,FM,FM,NOR,0,0,9k6 FSK
 TEVEL-6,436400,145970,FM,FM,NOR,0,0,9k6 FSK
 TEVEL-7,436400,145970,FM,FM,NOR,0,0,9k6 FSK
 TEVEL-8,436400,145970,FM,FM,NOR,0,0,9k6 FSK
+TEVEL2-3,436400,145970,FM,FM,NOR,0,0, FM Transponder
 Tianyi 2,435350,0,FM,FM,NOR,0,0,9k6 GMSK/5Mbps OFDM
 TIGRISAT,435001,0,FM,FM,NOR,0,0,9k6 FSK
 TISAT 1,145980,0,FM,FM,NOR,0,0,FM Beacon
@@ -480,3 +481,4 @@ CSS,145875,436510,FM,FM,NOR,0,0,Cross Band Repeater V/U
 CSS,435075,145985,FM,FM,NOR,0,0,Cross Band Repeater U/V
 ;For the latest information on the Doppler.Sqf file check the SatPC32 manual
 ;For the latest version of SatPC32 http://www.dk1tb.de/indexeng.htm
+
