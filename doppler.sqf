@@ -318,6 +318,7 @@ POEM-4,145825,145825,FM,FM,NOR,0,0,APRS
 POEM-4,145870,,FM,FM,NOR,0,0,APRS
 PRISM,437250,0,CW,CW,NOR,0,0,1k2AFSK 9k6GMSK CW
 QARMAN,437350,0,FM,FM,NOR,0,0,9600bps GMSK
+QMR-KWT-2,436950,145920,FM,FM,Nor,0,0,FM Transponder
 Raavana-1,437375,0,FM,FM,NOR,0,0,4k8GMSK
 RADFXSAT (FOX-1B),145960,435250,FM,FM,NOR,0,0,Voice U/V
 Reaktor Hello World,437775,0,FM,FM,NOR,0,0,9600bps 2GFSK CW
@@ -481,4 +482,5 @@ CSS,145875,436510,FM,FM,NOR,0,0,Cross Band Repeater V/U
 CSS,435075,145985,FM,FM,NOR,0,0,Cross Band Repeater U/V
 ;For the latest information on the Doppler.Sqf file check the SatPC32 manual
 ;For the latest version of SatPC32 http://www.dk1tb.de/indexeng.htm
+
 
